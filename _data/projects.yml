@@ -24,7 +24,7 @@
     We present a wage posting model with search frictions where idiosyncratic shocks to optimal firm size generate different returns to adjusting the workforce. Our approach takes the firms as the only decision makers, and it assumes a simple employment contract: firms pay a wage and may only change an employment relationship by paying exogenously specified costs. Labor market outcomes are modeled as a mean field game equilibrium in which aggregate statistics impacting firms’ policies, which play the role of prices, are the hiring and poaching flow rates. Consistency of aggregate choices with prices builds on a reduced form matching function which subsumes the entire functioning of the labor market outside of firms. Leveraging and extending recently developed numerical methods, we can solve for the equilibrium. The model delivers nontrivial policy functions and aggregates, which can be used to quantify features of the endogenous reshuffling of workers both in the size ladder and in the wage ladder, including net poaching along these two margins, as presented in, e.g., Haltiwanger et al. (2017). A calibrated version of the model is able to generate an inverted net poaching schedule which is consistent with their finding that smaller firms poach workers from larger ones.
 
 - layout: top-middle
-  name: "The Consumption Multiplier of Government Purchases - Evidence from U.S. States"
+  name: "The Consumption Multiplier of Government Purchases: Evidence from U.S. States"
   dates: February 2017
   # link: github.com/sproogen
   # github: sproogen/resume-theme
