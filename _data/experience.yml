@@ -1,6 +1,6 @@
 - layout: left
   company: MIT
-  link: http://economics.mit.edu/
+  link: "http://economics.mit.edu/"
   job_title: Teaching and Research Assistant
   dates: March 2016 - Present
   # quote: >
@@ -10,7 +10,7 @@
 
 - layout: left
   company: Bocconi University
-  link: https://www.unibocconi.eu
+  link: "https://www.unibocconi.eu"
   job_title: Teaching and Research Assistant
   dates: September 2014 - June 2015
   # quote: >
@@ -20,7 +20,7 @@
 
 - layout: left
   company: IGIER
-  link: http://www.igier.unibocconi.it/
+  link: "http://www.igier.unibocconi.it/"
   job_title: Intern
   dates: June 2014 - August 2014
   quote: >
@@ -30,7 +30,7 @@
 
 - layout: left
   company: Bulgarian National Bank
-  link: http://www.bnb.bg/?toLang=_EN
+  link: "http://www.bnb.bg/?toLang=_EN"
   job_title: Summer Intern
   dates: July 2013 - August 2013
   quote: >
