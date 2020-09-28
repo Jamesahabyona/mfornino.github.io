@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Michele Fornino
-title: PhD Candidate
+title: PhD Candidate in Economics
 email: mfornino@mit.edu
 website: https::/mfornino.github.io/
 
@@ -28,11 +28,16 @@ orcid_username: 0000-0002-9256-7252
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Michele and I am a PhD Candidate at MIT. 
+  I am an Economics PhD Candidate at the <a href="http://economics.mit.edu/">Massachusetts Institute of Technology (MIT)</a>. 
 
-  I grew up in Saluzzo, Italy.
+  I grew up in <a href="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.bookingpiemonte.it%2Fwp-content%2Fuploads%2F2015%2F08%2Fsaluzzo_hq.jpg&f=1&nofb=1">Saluzzo, Italy</a>. My name is <a href="https://forvo.com/word/michele/">a bit weird</a>.
 
-  I am most skilled in: <mark>Coding</mark> and <mark>Teaching Undergraduate Macro</mark>
+  - <i>Research interests</i>: <mark>Macroeconomics</mark>, <mark>Economics of Automation</mark>, <mark>Labor Economics</mark>.
+
+  - <i>Things I love doing</i>: <mark>Learning</mark>, <mark>Teaching</mark>, <mark>Coding</mark>
+
+  - <i>Skills</i>:
+
 
 # Projects Section
 projects_title: Research
@@ -49,11 +54,17 @@ experience_title: Work Experience
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  <b>Awards</b>:
+   - <i>"Particolarmente Meritevole"</i>. Honor mention from Bank of Italy's Stringher scholarship (2017).
+   - <i>Marco Fanno Scholarship</i> from Unicredit&Universities Foundation (2014).
+   - <i>Bocconi Full Merit Award</i>. Full scholarship awarded on the basis of merit from Bocconi University (2012).
+
+  <b>Languages</b>: Italian (Native), English (Proficient), French and Spanish (Reading Competence).
+
+  <b>Hobbies</b>:
+   - <i>"Particolarmente Meritevole"</i>. Honor mention from Bank of Italy's Stringher scholarship (2017).
+   - <i>Marco Fanno Scholarship</i> from Unicredit&Universities Foundation (2014).
+   - <i>Bocconi Full Merit Award</i>. Full scholarship awarded on the basis of merit from Bocconi University (2012).
 
 # Footer
 footer_show_references: true
