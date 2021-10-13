@@ -1,4 +1,14 @@
 - layout: left
+  company: International Monetary Fund
+  link: "http://economics.mit.edu/"
+  job_title: Economist
+  dates: September 2021 - Present
+  # quote: >
+  #  Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  description: | # this will include new lines to allow paragraphs
+    Economist in the Financial Institutions division of the Statistics Department.
+
+- layout: left
   company: MIT
   link: "http://economics.mit.edu/"
   job_title: Teaching and Research Assistant
