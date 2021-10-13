@@ -1,6 +1,6 @@
 - layout: left
-  company: International Monetary Fund
-  link: "http://economics.mit.edu/"
+  company: IMF
+  link: "https://www.imf.org"
   job_title: Economist
   dates: September 2021 - Present
   # quote: >
@@ -10,7 +10,7 @@
 
 - layout: left
   company: MIT
-  link: "http://economics.mit.edu/"
+  link: "http://economics.mit.edu"
   job_title: Teaching and Research Assistant
   dates: March 2016 - May 2021
   # quote: >
